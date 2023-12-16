@@ -1,7 +1,13 @@
-# Laboratorio 11 12 Aplicaciones Web
+# Laboratorio 11-12
 Portafolio Web Developer
 ## Integrantes
-### Jared Valenzuela - Joseph Yépez - Alejandro Moreira - Heyer Tinoco - Juan Falconi - Juan Gualotuña - Miguel Paredes
+* Jared Valenzuela
+* Joseph Yépez
+* Alejandro Moreira
+* Heyer Tinoco
+* Juan Falconi
+* Juan Gualotuña
+* Miguel Paredes
 
 ## Web Server
 https://laboratorio-11-12.onrender.com/
